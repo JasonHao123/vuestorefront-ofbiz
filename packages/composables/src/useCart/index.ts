@@ -7,7 +7,7 @@ import type {
   Cart,
   CartItem,
   Product
-} from '@vue-storefront/vuestorefront-ofbiz-api';
+} from '@vue-storefront/ofbiz-api';
 
 const params: UseCartFactoryParams<Cart, CartItem, Product> = {
   // eslint-disable-next-line @typescript-eslint/no-unused-vars

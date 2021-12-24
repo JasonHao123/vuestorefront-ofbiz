@@ -1,4 +1,4 @@
-import { Store } from '@vue-storefront/vuestorefront-ofbiz-api';
+import { Store } from '@vue-storefront/ofbiz-api';
 import { Context, useStoreFactory } from '@vue-storefront/core';
 
 export const useStore = useStoreFactory<Store>({

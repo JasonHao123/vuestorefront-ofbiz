@@ -1,7 +1,7 @@
 module.exports = {
   integrations: {
-    vuestorefront_ofbiz: {
-      location: '@vue-storefront/vuestorefront-ofbiz-api/server',
+    ofbiz: {
+      location: '@vue-storefront/ofbiz-api/server',
       configuration: {}
     }
   }

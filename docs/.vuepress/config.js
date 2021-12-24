@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'Vue Storefront 2 for vuestorefront-ofbiz',
+  title: 'Vue Storefront 2 for ofbiz',
   base: '/',
-  description: 'Documentation for the vuestorefront-ofbiz connector for Vue Storefront 2',
+  description: 'Documentation for the ofbiz connector for Vue Storefront 2',
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }]
   ],
@@ -33,7 +33,7 @@ module.exports = {
   '@vuepress/search'
 ],
   themeConfig: {
-    repo: 'https://github.com/vuestorefront/vuestorefront-ofbiz',
+    repo: 'https://github.com/vuestorefront/ofbiz',
     editLinks: true,
     docsDir: 'docs',
     docsBranch: 'develop',
@@ -43,8 +43,8 @@ module.exports = {
       { text: 'Vue Storefront', link: 'https://vuestorefront.io/' },
       { text: 'Core Documentation', link: 'https://docs.vuestorefront.io/v2/' },
       // { text: 'Demo', link: '' },
-      { text: 'GitHub', link: 'https://github.com/vuestorefront/vuestorefront-ofbiz'},
-      { text: 'Roadmap', link: 'https://github.com/vuestorefront/vuestorefront-ofbiz'}
+      { text: 'GitHub', link: 'https://github.com/vuestorefront/ofbiz'},
+      { text: 'Roadmap', link: 'https://github.com/vuestorefront/ofbiz'}
     ],
     sidebar: [
       {

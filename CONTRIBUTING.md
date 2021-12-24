@@ -1,11 +1,11 @@
 # Contributing
 
-Yeay! You want to contribute to @vuestorefront/vuestorefront-ofbiz. That's amazing! To smoothen everyone's experience involved with the project please take note of the following guidelines and rules.
+Yeay! You want to contribute to @vuestorefront/ofbiz. That's amazing! To smoothen everyone's experience involved with the project please take note of the following guidelines and rules.
 
 
 ## Found an Issue?
 
-Thank you for reporting any issues you find. We do our best to test and make @vuestorefront/vuestorefront-ofbiz as solid as possible, but any reported issue is a real help.
+Thank you for reporting any issues you find. We do our best to test and make @vuestorefront/ofbiz as solid as possible, but any reported issue is a real help.
 
 Please follow these guidelines when reporting issues:
 
@@ -13,14 +13,14 @@ Please follow these guidelines when reporting issues:
 - Tag your issue with the tag `bug`
 - Provide a short summary of what you are trying to do
 - Provide the log of the encountered error if applicable
-- Provide the exact version of @vuestorefront/vuestorefront-ofbiz.
+- Provide the exact version of @vuestorefront/ofbiz.
 - Be awesome and consider contributing a [pull request](#want-to-contribute)
 
 ## Want to contribute?
 
 Please consider these guidelines when filing a pull request:
 
-> @vuestorefront/vuestorefront-ofbiz pull requests
+> @vuestorefront/ofbiz pull requests
 
 - Follow the [Coding Rules](#coding-rules)
 - Follow the [Commit Rules](#commit-rules)
@@ -35,7 +35,7 @@ Please consider these guidelines when filing a pull request:
 
 ## Coding Rules
 
-To keep the code base of @vuestorefront/vuestorefront-ofbiz neat and tidy the following rules apply to every change
+To keep the code base of @vuestorefront/ofbiz neat and tidy the following rules apply to every change
 
 > Coding standards
 
@@ -46,7 +46,7 @@ To keep the code base of @vuestorefront/vuestorefront-ofbiz neat and tidy the fo
 ## Commit Rules
 
 To help everyone with understanding the commit history of commitlint the following commit rules are enforced.
-To make your life easier @vuestorefront/vuestorefront-ofbiz is commitizen-friendly and provides the npm run-script `commit`.
+To make your life easier @vuestorefront/ofbiz is commitizen-friendly and provides the npm run-script `commit`.
 
 > Commit standards
 

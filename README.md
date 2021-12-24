@@ -3,7 +3,7 @@
 This is a template, to use it you must rename the project changing the `{YOUR INTEGRATION NAME}` to the name of the integration you are developing. The name must be in lowercase and without any special characters.
 
 ```sh
-grep -rl 'vuestorefront-ofbiz' ./ | xargs sed -i '' 's/vuestorefront-ofbiz/{YOUR INTEGRATION NAME}/g'
+grep -rl 'ofbiz' ./ | xargs sed -i '' 's/ofbiz/{YOUR INTEGRATION NAME}/g'
 ```
 
 ------
@@ -12,7 +12,7 @@ grep -rl 'vuestorefront-ofbiz' ./ | xargs sed -i '' 's/vuestorefront-ofbiz/{YOUR
   <img src="https://user-images.githubusercontent.com/1626923/137092657-fb398d20-b592-4661-a1f9-4135db0b61d5.png" alt="Vue Storefront" height="80px" />
 </div>
 
-## Vue Storefront 2 integration with vuestorefront-ofbiz
+## Vue Storefront 2 integration with ofbiz
 
 To learn how to build your integration, see our [Integration guide](https://docs.vuestorefront.io/v2/integrate/integration-guide.html).
 
@@ -32,7 +32,7 @@ vsf init <project_name> && cd <project_name> && yarn && yarn dev
 
 ## How to start if you want to contribute?
 
-Want to contribute? Ping us on `vuestorefront-ofbiz` channel on [our Discord](https://discord.vuestorefront.io)!
+Want to contribute? Ping us on `ofbiz` channel on [our Discord](https://discord.vuestorefront.io)!
 
 ### Requirements:
 - NodeJS v14 or later
@@ -42,8 +42,8 @@ Want to contribute? Ping us on `vuestorefront-ofbiz` channel on [our Discord](ht
 2. Clone your fork of the repo
     ```
     example:
-    git clone https://github.com/vuestorefront/vuestorefront-ofbiz.git
-    cd vuestorefront-ofbiz
+    git clone https://github.com/vuestorefront/ofbiz.git
+    cd ofbiz
     ```
 3. Run `yarn` to install dependencies
 4. Build dependencies `yarn build:api-client && yarn build:composables`
@@ -54,12 +54,12 @@ Want to contribute? Ping us on `vuestorefront-ofbiz` channel on [our Discord](ht
 ## Resources
 
 - [Vue Storefront Documentation](https://docs.vuestorefront.io/v2/)
-- [vuestorefront-ofbiz integration Documentation](https://docs.vuestorefront.io/vuestorefront-ofbiz)
+- [ofbiz integration Documentation](https://docs.vuestorefront.io/ofbiz)
 - [Community Chat](https://discord.vuestorefront.io)
 
 ## Support
 
-If you have any questions about this integration we will be happy to answer them on `vuestorefront-ofbiz` channel on [our Discord](discord.vuestorefront.io).
+If you have any questions about this integration we will be happy to answer them on `ofbiz` channel on [our Discord](discord.vuestorefront.io).
 
 ## Contributors ✨
 

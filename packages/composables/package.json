@@ -1,5 +1,5 @@
 {
-  "name": "@vue-storefront/vuestorefront-ofbiz",
+  "name": "@vue-storefront/ofbiz",
   "version": "0.0.1",
   "private": true,
   "sideEffects": false,
@@ -16,7 +16,7 @@
     "update:update": "ncu -u"
   },
   "dependencies": {
-    "@vue-storefront/vuestorefront-ofbiz-api": "0.0.1",
+    "@vue-storefront/ofbiz-api": "0.0.1",
     "@vue-storefront/core": "~2.5.3"
   },
   "devDependencies": {

@@ -1,4 +1,4 @@
-import { Store } from '@vue-storefront/vuestorefront-ofbiz-api';
+import { Store } from '@vue-storefront/ofbiz-api';
 import { AgnosticStore, UseStoreGetters } from '@vue-storefront/core';
 import { UseStoreFilterParams } from '../types';
 

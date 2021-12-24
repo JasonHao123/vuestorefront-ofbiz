@@ -1,5 +1,5 @@
 {
-  "name": "@vue-storefront/vuestorefront-ofbiz-api",
+  "name": "@vue-storefront/ofbiz-api",
   "version": "0.0.1",
   "private": true,
   "sideEffects": false,
