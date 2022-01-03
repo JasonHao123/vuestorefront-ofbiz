@@ -58,6 +58,23 @@ function getProducts(params: FacetSearchResult<Facet>): any {
         original: 12.34,
         current: 10.00
       }
+    },
+    {
+      _id: 2,
+      _description: 'Some description',
+      _categoriesRef: [
+        '1',
+        '2'
+      ],
+      name: 'Test jacket',
+      sku: 'black-jacket',
+      images: [
+        'https://s3-eu-west-1.amazonaws.com/commercetools-maximilian/products/081223_1_large.jpg'
+      ],
+      price: {
+        original: 12.34,
+        current: 10.00
+      }
     }
   ];
 }
